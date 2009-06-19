@@ -15,7 +15,7 @@ Release:	1
 License:	Free as in "free beer", but not distributable
 Group:		Development/Languages/Java
 Source0:	%{srcname}-%{version}.jar
-# NoSource0-md5:	-
+# NoSource0-md5:	1aeb73d2b3c80a197b3a0483260b98e9
 NoSource:	0
 URL:		http://www.adaptavist.com/display/Builder/Home
 BuildRequires:	jpackage-utils
